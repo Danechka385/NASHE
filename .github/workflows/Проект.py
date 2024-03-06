@@ -1,3 +1,3 @@
 print('О господи')
 input()
-print()
+print('privet')
